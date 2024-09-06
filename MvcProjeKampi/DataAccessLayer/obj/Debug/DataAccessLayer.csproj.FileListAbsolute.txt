@@ -1,0 +1,17 @@
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\emre\Desktop\C#Projeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
